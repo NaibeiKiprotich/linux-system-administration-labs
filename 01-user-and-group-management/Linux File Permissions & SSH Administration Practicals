@@ -1,0 +1,81 @@
+Linux File Permissions & SSH Administration Practicals
+Overview
+
+Successfully completed hands-on Linux administration and cybersecurity practicals in a CentOS virtual machine environment focusing on file permissions, user privilege management, SSH administration, secure remote access, and Linux troubleshooting.
+
+These practicals strengthened my operational skills relevant to:
+
+Cybersecurity Analysis
+NOC/SOC Operations
+Linux System Administration
+Cloud & Infrastructure Support
+Core Skills Demonstrated
+Linux File Permission Management
+
+Implemented and managed Linux access control mechanisms using:
+
+chmod
+chown
+chgrp
+
+Practical competencies achieved:
+
+Configuring secure file and directory permissions
+Managing user and group ownership
+Applying numeric and symbolic permission models
+Securing sensitive files using least privilege principles
+Managing recursive permissions
+Executing shell scripts securely
+
+Example tasks:
+
+chmod 700 secure_data
+chmod 600 passwords.txt
+chown trainee file.txt
+SSH Administration & Remote Access
+
+Configured and managed secure remote access services using OpenSSH.
+
+Skills achieved:
+
+SSH service installation and management
+Secure remote login configuration
+SSH key generation and passwordless authentication
+SCP secure file transfer
+SSH port configuration and hardening
+Remote command execution
+SSH troubleshooting and log analysis
+
+Example tasks:
+
+systemctl start sshd
+ssh trainee@localhost
+ssh-keygen
+scp notes.txt trainee@localhost:/home/trainee/
+Security & Troubleshooting Skills
+
+Demonstrated practical cybersecurity and Linux troubleshooting capabilities through:
+
+SSH service debugging
+Connection refusal troubleshooting
+Log analysis using journalctl
+Access control hardening
+Root login restriction
+Port verification and service validation
+Tools & Technologies Used
+CentOS Linux 7
+OpenSSH
+Linux CLI
+systemctl
+SSH/SCP
+Nano Editor
+Linux File System Utilities
+Key Technical Competencies
+Linux Administration
+SSH Security Hardening
+File Permission Management
+User & Group Administration
+Secure Remote Access
+Linux Troubleshooting
+Command Line Operations
+Infrastructure Security Basics
